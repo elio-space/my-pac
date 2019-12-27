@@ -1,0 +1,21 @@
+# This PAC file is for Shadowsocks on Mac
+
+||playvids.com^
+||pornhub.com^
+||stboy.net^
+||github.com^
+||unsplash.com^
+||apple.comscoreresearch.com^
+||gspe1-ssl.ls.apple.com^
+||t2pic.com^
+||xvideos.com^
+||imagebam.com^
+||freeknight.cf^
+||library.proletarian.me^
+||topnudemalecelebs.com^
+||szncu.top^
+||v2mm.tech^
+||imgbox.com^
+||cloudcone.com^
+||myptt.cc^
+||oreilly.com^
